@@ -43,10 +43,6 @@ h1 {
   justify-content: center; /* Centre les éléments sur petits écrans */
 }
 
-.logo {
-  height: 50px; /* Ajuste la taille du logo */
-}
-
 .create-event-button {
   margin-left: auto; /* Pousse le bouton à droite */
 }
